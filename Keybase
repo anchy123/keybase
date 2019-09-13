@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am anchy123 on github.
+  * I am anchy123 (https://keybase.io/anchy123) on keybase.
+  * I have a public key ASBeCYe-9KtoMzNVpFWu6iVxs_rzCHcjaPoAyEPFZw9Fzgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e0987bef4ab68333355a455aeea2571b3faf308772368fa00c843c5670f45ce0a",
+      "host": "keybase.io",
+      "kid": "01205e0987bef4ab68333355a455aeea2571b3faf308772368fa00c843c5670f45ce0a",
+      "uid": "9fff6ddf486ba87e2d74ddfac73d3b19",
+      "username": "anchy123"
+    },
+    "merkle_root": {
+      "ctime": 1568385011,
+      "hash": "3a45b9a1dd2c0f77dd78c6aa429178a73499f63447d205cdffc9dd15818d0338e6906d7b1b141a82afb6d47add4d000a189d94aeae2ac5a62320767615b3d7af",
+      "hash_meta": "aadbd9f96b885c709316db7ab9737abf6612b54397275e3f16ac4b318a95b5c7",
+      "seqno": 7164665
+    },
+    "service": {
+      "entropy": "E5jUVTREhjtRWDihi4FubNH7",
+      "name": "github",
+      "username": "anchy123"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568384936,
+  "expire_in": 504576000,
+  "prev": "bf6024d3c9fa7554b2e2badea90f9d871e583844ef4cd1346377f0bcfbe9dc7f",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASBeCYe-9KtoMzNVpFWu6iVxs_rzCHcjaPoAyEPFZw9Fzgo](https://keybase.io/anchy123), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXgmHvvSraDMzVaRVruolcbP68wh3I2j6AMhDxWcPRc4Kp3BheWxvYWTESpcCBsQgv2Ak08n6dVSy4rreqQ+dhx5YOETvTNE0Y3fwvPvp3H/EIGuzHUWQPKnRmpO9EGXlIgF1UMhqjixOWOc8rKRRGHtvAgHCo3NpZ8RAxVhgrWQGaPWQGJ5GBXZAKVm2MAuaTOPGothMspqI8ttSgZilnlKFELLBM6jxtZ0s7B145z3EvrUULZNf7AS1CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINKZBiDYLe+8jKwRbNzwmt4cSqqM23vZNAZFRkzgjFwvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/anchy123
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id anchy123
+```
